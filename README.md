@@ -1,2 +1,2 @@
-# practice-1
- 
+# READ ME
+This is my first repository! 
